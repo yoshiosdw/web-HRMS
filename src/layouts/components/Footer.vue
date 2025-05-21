@@ -6,10 +6,9 @@
       {{ new Date().getFullYear() }}
       Made By 
       <a
-        target="https://lidahbuayagroup.com"
         rel="noopener noreferrer"
         class="text-primary ms-1"
-      >LIDAH BUAYA GROUP</a>
+      >YOSHIO SUDEWA</a>
     </span>
   </div>
 </template>

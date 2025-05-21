@@ -74,7 +74,7 @@ const submitPasswordReset = async () => {
             <VRow>
               <VCol cols="12">
                 <VLabel class="d-flex justify-center">
-                  <h3>LIDAH BUAYA GROUP</h3>
+                  <h3>HRMS BY YOSHIO SUDEWA</h3>
                 </VLabel>
               </VCol>
             </VRow>

@@ -9,7 +9,8 @@ import authV2MaskLight from "@images/pages/misc-mask-light.png"
 import { VForm } from "vuetify/components"
 
 // import logo from "@images/logo.png"
-import logo from "@images/sjb.png"
+import logo from "@images/logo.png"
+// import logo from "@images/sjb.png"
 
 import axiosIns from "@/plugins/axios"
 import { useAppAbility } from "@/plugins/casl/useAppAbility"
@@ -171,12 +172,11 @@ const onSubmit = () => {
               >
                 &copy; {{ new Date().getFullYear() }} Made By 
                 <a
-                  href="https://lidahbuayagroup.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="text-primary ms-1"
                 >
-                  LIDAH BUAYA GROUP
+                  YOSHIO SUDEWA
                 </a>
               </span>
             </div>
