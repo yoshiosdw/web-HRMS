@@ -117,7 +117,7 @@ const onSubmit = () => {
               </VCardTitle>
             </VCardItem>
             <VCardText class="pt-1 text-center">
-              <VLabel>WEB - HRMS SINARJOYOBOYO</VLabel>
+              <VLabel>WEB - HRMS</VLabel>
             </VCardText>
             <VCardText>
               <VForm
